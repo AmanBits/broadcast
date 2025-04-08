@@ -1,2 +1,0 @@
-# broadcast
-Springboot broadcast app.
